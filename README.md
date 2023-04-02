@@ -1,2 +1,4 @@
-# Fretezon
-Peça fretes onde e quando e quiser!
+<h2 align="center">
+  Fretezon - Em desenvolvimento/>
+  <a href="#Fretezon" target="_blank">soumyajit.tech</a>
+</h2>
