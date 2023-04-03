@@ -12,4 +12,4 @@
 ## O que é?
 
 Software de soliçitação de frete para dipositivo mobile
-(https://github.com/soumyajit4419/Portfolio). Thanks!
+(https://github.com/odenissz/Fretezon). Faz um fretezon aí!
