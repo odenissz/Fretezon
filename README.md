@@ -24,3 +24,9 @@ Esse projeto foi feito usando.
 - Node.js
 - Firebase
 - VsCode
+
+## Features
+.
+.
+.
+.
