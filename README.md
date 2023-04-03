@@ -13,3 +13,14 @@
 
 Software de soliçitação de frete para dipositivo mobile
 (https://github.com/odenissz/Fretezon). Faz um fretezon aí!
+
+## Tecnologias usadas
+
+O app Fretezon foi feito ..........<br/>
+
+Esse projeto foi feito usando.
+
+- React.js
+- Node.js
+- Firebase
+- VsCode
