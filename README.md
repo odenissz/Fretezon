@@ -11,4 +11,5 @@
 
 ## O que é?
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
+Software de soliçitação de frete para dipositivo mobile
+(https://github.com/soumyajit4419/Portfolio). Thanks!
