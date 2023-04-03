@@ -42,4 +42,13 @@ Esse projeto foi feito usando.
         </sub>
       </a>
     </td>
+    <td align="center">
+      <a href="#">
+        <img src="" width="100px;" alt=""/><br>
+        <sub>
+          <b>Nicão da 019</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
 </table>
