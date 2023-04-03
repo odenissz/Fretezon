@@ -51,4 +51,13 @@ Esse projeto foi feito usando.
       </a>
     </td>
   </tr>
+  <td align="center">
+      <a href="#">
+        <img src="" width="100px;" alt=""/><br>
+        <sub>
+          <b>Waddi Rendryo</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
 </table>
