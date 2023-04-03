@@ -50,7 +50,6 @@ Esse projeto foi feito usando.
         </sub>
       </a>
     </td>
-  </tr>
   <td align="center">
       <a href="#">
         <img src="" width="100px;" alt=""/><br>
